@@ -10,5 +10,5 @@ Download the pretrained model from [http://www.cs.toronto.edu/~guerzhoy/tf_alexn
 
 ## Demo usage
 ```
-python ./src/relative_attributes.py --dataset_name='pubfig' --attr=0
+python ./src/relative_attributes.py
 ```
