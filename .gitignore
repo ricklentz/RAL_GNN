@@ -1,0 +1,10 @@
+
+.idea/modules.xml
+.idea/RAL_GNN.iml
+.idea/vcs.xml
+.idea/workspace.xml
+*.pyc
+*.pyc
+*.pyc
+.DS_Store
+src/GNNmodel.pyc
